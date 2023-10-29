@@ -32,7 +32,7 @@ muy util para una app frontend del tipo e-comerce.
   }</pre>
   
 ###   Documentacion
-<p>Para aceder a la documentacion de los distintos End Points que ofrece visita: [https://documenter.getpostman.com/view/28938208/2s9YJdXNXi](https://documenter.getpostman.com/view/28938208/2s9YJdXNXi)
+<p>Para aceder a la documentacion de los distintos End Points que ofrece visita: https://documenter.getpostman.com/view/28938208/2s9YJdXNXi
 </p>
 
 ### Agradecimiento

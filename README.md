@@ -1,4 +1,5 @@
-#My Global-API 
+# My Global-API  
+ 
 <p>Se trata de un proyecto academico que forma  parte de un sistema front-backend para el stack MERN. 
 Basicamente, es una API creada con typescript, que conecta con una base de datos NOSQL, cuyo servicio consiste en posibilitar la gestion de:
 - dinamica de productos,
